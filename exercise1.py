@@ -1,30 +1,7 @@
-# input();
-# name = input
-# print(name)
-# # int(string)
-# age = int(input("what is your age"))
 
-# print(name)
 
-# print (age + 7)
 
-# age = 19
-# if age >= 21:
-#     print("you can drink")
-# elif age < 18:
-#     print("what are you doing here")    
-# else :
-#     print("you live somewhere...")
 
-# 
-
-# answer = ""
-
-# while answer != "when":
-#     answer = input("say when: ")
-#     answer = answer.lower()
-
-# print("say cheese")    
 
 
 # name = input("Enter your name:")
@@ -38,6 +15,8 @@
 # name = input("What is name?: ")
 # subject = input("What is subject?: ")
 # print(name + "`s favorite subject in school is " + subject)
+
+
 
 
 # day = int(input('Day (0-6)? ')) 
@@ -56,6 +35,8 @@
 # else:
 #     print("Saturday")   
 
+
+
 # day = int(input('Day (0-6)? ')) 
 # if (day == 0):
 #     print("Go to work")
@@ -70,7 +51,9 @@
 # elif (day == 5):
 #     print("Seelp in")   
 # else:
-#     print("Go to work")   
+#     print("Go to work")  
+
+
 
 # Celsius = int(input("Temperatue in C?: "))
 # Fahrenheit = (Celsius * 1.8 ) + 32
@@ -114,11 +97,15 @@
 #     print(count)
 
 
-coin = 0
-x = "yes"
-while x == "yes":
-    print("You have " + str(coin) + " coins.")
-    coin += 1
-    x = input("Do you want another? ")
-print("Bye")
+# coin = 0 
+# print("You have {} coins.".format(coin))
+# answer = input("Do you want another? ")
+# while answer == "yes":   
+#     coin += 1
+#     print("You have {} coins.". format(coin))
+#     answer = input("Do you want another? ")
+# print("Bye")
 
+
+
+   
